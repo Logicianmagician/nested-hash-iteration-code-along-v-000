@@ -20,5 +20,5 @@ def remove_strawberry(contacts)
   key.each do |k, v|
     puts v
   end
-end
+ end
 end
