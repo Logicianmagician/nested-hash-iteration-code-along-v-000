@@ -19,7 +19,7 @@ def remove_strawberry(contacts)
    details.each do |type, attribute|
      if type == :favorite_ice_cream_flavors
        attribute.shift
+   end
   end
  end
-end
 end
